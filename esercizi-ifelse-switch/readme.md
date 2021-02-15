@@ -1,4 +1,4 @@
-Esercizi relativi al video:
+Esercizi relativi al video esercizi sulle istruzioni if-else/switch:
 
 Link playlist: https://youtu.be/Uau9j3Ej0QY
 
