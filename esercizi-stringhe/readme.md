@@ -1,4 +1,4 @@
-Esercizi relativi al video esercizi sulle Funzioni:
+Esercizi relativi al video esercizi sulle Stringhe:
 
 Link playlist: https://youtu.be/R0U1sB8HvcA
 
